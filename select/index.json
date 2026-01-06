@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "I'll still be here",
+  "base_artist": "Gigi Murin",
+  "createdAt": "2026-01-06T02:48:54.130135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Still Be Here",
+      "artist": "Savella",
+      "has_synced": true,
+      "path": "select/01_I'll_Still_Be_Here_Savella.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I’ll Still Be Here",
+      "artist": "Leigh‐Anne",
+      "has_synced": true,
+      "path": "select/02_I’ll_Still_Be_Here_Leigh‐Anne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Still Be Here",
+      "artist": "Leigh-Anne",
+      "has_synced": true,
+      "path": "select/03_I'll_Still_Be_Here_Leigh-Anne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll still be here",
+      "artist": "Gigi Murin",
+      "has_synced": true,
+      "path": "select/04_I'll_still_be_here_Gigi_Murin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Can Paint Over Me But I'll Still Be Here",
+      "artist": "Suck Brick Kid",
+      "has_synced": true,
+      "path": "select/05_You_Can_Paint_Over_Me_But_I'll_Still_Be_Here_Suck_Brick_Kid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll still be here",
+      "artist": "Gigi Murin",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_still_be_here_Gigi_Murin.txt"
+    }
+  ]
+}
